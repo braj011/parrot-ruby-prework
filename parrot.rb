@@ -3,5 +3,6 @@
 
 
 def parrot (call = "Squak!")
-  
+  puts call
+  return call
 end 
